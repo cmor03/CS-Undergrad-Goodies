@@ -1,0 +1,1 @@
+Check your work as you code. This will avoid having lots of errors to sort out later.
